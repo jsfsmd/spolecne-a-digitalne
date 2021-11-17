@@ -1,3 +1,9 @@
 .DS_Store
 
 tmp/
+
+resources/_gen/images
+public/
+
+# Local Netlify folder
+.netlify

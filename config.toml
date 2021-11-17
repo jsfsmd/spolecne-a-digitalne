@@ -1,0 +1,13 @@
+baseURL = ""
+languageCode = "cs"
+
+title = "Společně a digitálně"
+
+disableKinds = ["section", "RSS", "sitemap", "taxonomy", "term", "taxonomyTerm"]
+googleAnalytics = "REPLACEME"
+
+[params]
+description = "Platforma neziskových organizací za digitální transformaci státu"
+
+[imaging]
+quality = 90
