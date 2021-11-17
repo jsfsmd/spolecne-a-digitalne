@@ -1,0 +1,14 @@
+<div id="sidebar">
+  {{ with .Site.GetPage "/sidebar/preamble" }}
+  <div id="sidebar-content-preamble">
+    {{ .Content }}
+    <p class="contact"><a href="mailto:email@example.com">email@example.com</a></p>
+  </div>
+  {{ end}}
+
+  {{ with .Site.GetPage "/sidebar/partners" }}
+  <div id="sidebar-content-partners">
+    {{ .Content }}
+  </div>
+  {{ end}}
+</div>

@@ -1,9 +1,21 @@
 <!DOCTYPE html>
-<html lang="en-us">
+<html lang="cs">
 <head>
   <title>{{ .Site.Title }}</title>
+  {{ partial "head.html" . }}
 </head>
 <body>
-  Hello World
+  {{ partial "header.html" . }}
+
+  <div id="page">
+    <div id="content">
+      <h1>Příležitosti pro digitální transformaci</h1>
+      {{ partial "content-preamble.html" . }}
+      <div id="content-inner">
+        {{ .Content }}
+      </div>
+    </div>
+    {{ partial "sidebar.html" . }}
+  </div>
 </body>
 </html>
