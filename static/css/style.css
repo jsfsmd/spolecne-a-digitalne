@@ -109,14 +109,24 @@ p.contact a:hover {
   font-weight: 600;
   font-size: 18px;
   display: list-item;
+  list-style-type: none;
   counter-increment: h3;
+  position: relative;
 }
 
-#content h2::marker {
+#content h2::before {
   content: "#" counter(h3) " ";
   color: #ffa07a;
   font-weight: bold;
-  font-size: 32px;
+  font-size: 36px;
+  text-align: right;
+  margin: 0;
+  display: block;
+  width: 3em;
+  position: absolute;
+  top: 5px;
+  left: calc(-68px - 1.5em);
+  transform: translateY(-50%);
 }
 
 #content-inner p {
