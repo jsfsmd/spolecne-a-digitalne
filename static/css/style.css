@@ -88,8 +88,7 @@ p.contact a:hover {
 }
 
 #sidebar-content-partners h3 { font-weight: 200; text-transform: uppercase; }
-#sidebar-content-partners figure img { max-width: 100px; }
-#sidebar-content-partners figure h4  { font-weight: 200; }
+#sidebar-content-partners img { max-height: 100px; max-width: 200px; margin-bottom: 1em; }
 
 #content { width: 65%; }
 
