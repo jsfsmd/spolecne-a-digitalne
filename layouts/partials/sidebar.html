@@ -2,7 +2,7 @@
   {{ with .Site.GetPage "/sidebar/preamble" }}
   <div id="sidebar-content-preamble">
     {{ .Content }}
-    <p class="contact"><a href="mailto:email@example.com">email@example.com</a></p>
+    <p class="contact"><a href="mailto:{{ .Site.Params.Email }}">{{ .Site.Params.Email }}</a></p>
   </div>
   {{ end}}
 

@@ -8,6 +8,7 @@ googleAnalytics = "REPLACEME"
 
 [params]
 description = "Platforma neziskových organizací za digitální transformaci státu"
+email = "info@spolecneadigitalne.cz"
 
 [imaging]
 quality = 90
