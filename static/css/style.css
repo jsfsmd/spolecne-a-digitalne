@@ -40,6 +40,13 @@ header p.contact {
   margin-right: 0.5em;
 }
 
+footer {
+  color: #A9A9B1;
+  font-size: 12px;
+  font-weight: 100;
+  margin-top: 1em;
+}
+
 p.contact {
   text-align: center;
   margin-top: 2em;

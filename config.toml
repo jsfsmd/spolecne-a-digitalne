@@ -4,7 +4,7 @@ languageCode = "cs"
 title = "Společně a digitálně"
 
 disableKinds = ["section", "RSS", "sitemap", "taxonomy", "term", "taxonomyTerm"]
-googleAnalytics = "REPLACEME"
+googleAnalytics = "G-JWD6WL94GS"
 
 [params]
 description = "Platforma neziskových organizací za digitální transformaci státu"

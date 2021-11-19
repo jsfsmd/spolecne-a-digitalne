@@ -9,3 +9,13 @@
 <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,200;0,400;0,500;0,600;1,300;1,400&display=swap" rel="stylesheet">
 
 <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/css/style.css">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.GoogleAnalytics }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '{{ .Site.GoogleAnalytics }}');
+</script>
