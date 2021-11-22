@@ -36,11 +36,11 @@ Státní správa dokáže pružně reagovat na personální potřeby, které jso
 
 ## Neefektivní spolupráce (zadávání a řešení) zadavatelů s dodavateli IT
 
-_`TODO`_
+_Stát má omezené kompetence pro vedení IT projektů. Převažuje „waterfall“ přístup, projekty jsou často zastaralé s nevyhovující architekturou, dlouhodobé, zakázky velké a vedou k vendor lock-inu._
 
 O co usilujeme:
 Digitální projekty jsou řízeny moderně se zaměřením na uživatele, zakázky jsou rozdělovány na menší části a vyvíjeny v souladu s agilním způsobem řízení. 
-Státní správa směřuje k servisně orientované architektuře a podporuje otevřená řešení (systémy i data), která minimalizují závislosti na jednom dodavateli (tzv. vendor lock-in). Státní správa systematicky buduje a posiluje kompetence úředníků, které jsou klíčové pro realizaci úspěšných veřejných zakázek.
+Státní správa směřuje k servisně orientované architektuře a podporuje otevřená řešení (systémy i data), která omezuje závislost na jednom dodavateli (tzv. vendor lock-in). Státní správa systematicky buduje a posiluje kompetence úředníků, které jsou klíčové pro realizaci úspěšných veřejných zakázek.
 
 
 
@@ -66,19 +66,19 @@ _`TODO`_
 O co usilujeme:
 `TODO`
 
-## Prostředí veřejné správy nepodporuje inovace a změny a brání tak úspěšné digitální transformaci
+## Prostředí veřejné správy nepodporuje inovace a změny
 
 _Prostředí veřejné správy je velmi statické, odolné změnám a úředníci nejsou systematicky podporováni pro rozvoj a inovace._
 
-O co usilujeme: Státní správa systematicky pěstuje pracovní kulturu, podporuje bezpečný prostor k rozvoji a inovacím.
-Státní správa podporuje výměnu zkušeností a dobré praxe mezi úředníky, motivuje úředníky v kontinuálním vylepšování služeb státu. Úředníci se pravidelně vzdělávají a získávají zkušenosti i mimo veřejnou správou.
+O co usilujeme: Státní správa systematicky pěstuje pracovní kulturu a vytváří bezpečný prostor k rozvoji a inovacím.
+Podporuje výměnu zkušeností a dobré praxe mezi úředníky, motivuje úředníky v kontinuálním vylepšování služeb státu. Úředníci se pravidelně vzdělávají a získávají zkušenosti i mimo veřejnou správou.
 
 ## Nedostatečná nebo systematická komunikace a osvěta veřejné správy brání úspěšné digitální transformaci
 
-_Státní správa nedostatečně komunikuje svůj pokrok nebo úspěchy, často jsou sdíleny jen skrze politické reprezentanty, hlavně v průběhu volebního období. Taková komunikace je nedůvěryhodná nebo nesrozumitelná, k mnoha občanům se vůbec nedostane._
+_Státní správa nedostatečně komunikuje svůj pokrok, úspěchy a výstupy digitální transformace pro občany. Často jsou sdíleny jen skrze politické reprezentanty, hlavně v průběhu volebního období. Taková komunikace je nedůvěryhodná nebo nesrozumitelná, k mnoha občanům se vůbec nedostane._
 
 O co usilujeme:
 Státní správa systematicky a pravidelně komunikuje průběžné pokroky v realizaci strategie v oblasti digitální transformace. 
-Státní správa srozumitelně vysvětluje a pozitivně motivuje občany Česka k pravidelnému využívání elektronických řešení komunikace se státem.
-Státní správa aktivně naslouchá a pracuje se zpětnou vazbou od občanů, kontinuálně služby pro občany vylepšuje.
+Srozumitelně vysvětluje a pozitivně motivuje občany Česka k pravidelnému využívání elektronických řešení komunikace se státem.
+Stát aktivně naslouchá a pracuje se zpětnou vazbou od občanů, kontinuálně služby pro občany vylepšuje.
 
