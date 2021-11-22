@@ -8,7 +8,7 @@ V novém volební období bude digitální transformace mezi top prioritami vlá
 
 ## Překážkou pro úspěšnou digitální transformaci je přetrvávající rezortismus a nedostatky v koordinaci a řízení
 
-_Přetrvávající resortismus se projevuje se zejména nekoordinovanými a nekoncepčními postupy v potřebě digitální transformace, často také v nízké úrovni vzájemného sdílení dat a informací mezi jednotlivými resorty._
+_Přetrvávající resortismus se projevuje se zejména nekoordinovanými a nekoncepčními postupy v potřebě digitální transformace, nedostatečnou provázaností politik mezi jednotlivými rezorty, často také v nízké úrovni vzájemného sdílení dat a informací mezi jednotlivými resorty._
 
 O co usilujeme:
 Centrální autorita se stane tahounem digitální transformace, bude mít silnou politickou podporu, pravomoce i zdroje a bude respektována napříč státní správou.
@@ -46,18 +46,18 @@ Státní správa směřuje k servisně orientované architektuře a podporuje ot
 
 ## Úspěšná digitální transformace se neobejde bez adekvátního financování na ICT infrastrukturu
 
-_Bez investice do technologií a jejich pevném zakotvení v rozpočtu bude digitální transformace dlouhodobě neudržitelná._
+_Stát podceňuje financování IT infrastruktury a dlouhodobě na ni nevyčleňuje dostatečné množství zdrojů a financí. Jako každá transformace, i ta digitální, vyžaduje investice a strategickou finanční podporu, která je nejen promítnuta do sestavování rozpočtu ČR, ale i do tvorby dotačních programů a dalších rozvojových fondů._
 
 O co usilujeme:
-Veřejná správa pravidelně investuje do nových digitálních technologií, do kritické a další ICT infrastruktury státu. Vedle investicí do nových technologií veřejná správa investuje do výzkumu, vzdělávání a robustní analýzy aktuálních potřeb. Následující období je příležitostí pro reformu veřejných rozpočtů a zajištění tak nutných zdrojů, které digitální transformaci umožní realizovat.
+Veřejná správa pravidelně investuje do nových digitálních technologií, do kritické a další ICT infrastruktury státu. Vedle investicí do nových technologií veřejná správa investuje do výzkumu, vzdělávání a robustní analýzy aktuálních potřeb. Následující období je příležitostí pro reformu veřejných rozpočtů a zajištění tak nutných zdrojů, které digitální transformaci umožní realizovat. Stát promítá potřeby pro úspěšnou digitální transformaci do veřejných rozpočtů, dotačních programů, rozvojových fondů a další participativní a otevřené mechanismy rozvoje.
 
 
 ## Digitální transformace není úspěšná díky nedostupnosti nebo nedostatečnému využití dat
 
-_`TODO`_
+_Státní správa a valná většina veřejných institucí dostatečně vepracuje s vlastními daty, nepracuje mnohdy ani s jinými daty. Ať už jde o tvorbu veřejných politik postavených na informovaném vládnutí nebo automatizaci agendy, stát ve svém úsilí zaostává. Politiky jsou častěji vytvářeny na základě pravidel politického PR a bez doložených faktů a poznání. Vládnutí je i nadále netransparentní a neadresné. K automatizaci dochází jen velmi pomalu a zpravidla úspěšně jen tam, kde je k technologiím blíže z podstaty typu agendy dané instituce, ve které se tak děje._
 
 O co usilujeme:
-Výkon veřejné správy a samosprávy je řízen daty, včetně politik, které z popisu výkonu funkce navrhují a plní. „Úřady“ se zabývají analýzou a správou dat s důrazem na jejich otevírání a kvalitu. Stát vytváří takové byrokratické prostředí, které vyžaduje kvalitní data a kvalitní datovou analýzu a odpovídající infrastrukturu pro správu a výměnu dat mezi stakeholdery včetně businessu a občanské společnosti. Občan má státem garantovaný přístup k datům, která jsou důkazní páteří pro státem navrhované politiky.
+Výkon veřejné správy a samosprávy je řízen daty, včetně politik, které z popisu výkonu funkce navrhují a plní. „Úřady“ se zabývají analýzou a správou dat s důrazem na jejich otevírání a kvalitu. Stát vytváří takové byrokratické prostředí, které vyžaduje kvalitní data a kvalitní datovou analýzu a odpovídající infrastrukturu pro správu a výměnu dat mezi stakeholdery včetně businessu a občanské společnosti. Občan má státem garantovaný přístup k datům, která jsou důkazní páteří pro státem navrhované politiky. Stát a jeho úředníci dbají na kvalitu dat.
 
 ## Chybějící kompetence úředníků a jejich systematický rozvoj je překážkou pro úspěšnou digitální transformaci
 
