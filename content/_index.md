@@ -54,7 +54,7 @@ Veřejná správa pravidelně investuje do nových digitálních technologií, d
 
 ## Digitální transformace není úspěšná díky nedostupnosti nebo nedostatečnému využití dat
 
-_Státní správa a valná většina veřejných institucí dostatečně vepracuje s vlastními daty, nepracuje mnohdy ani s jinými daty. Ať už jde o tvorbu veřejných politik postavených na informovaném vládnutí nebo automatizaci agendy, stát ve svém úsilí zaostává. Politiky jsou častěji vytvářeny na základě pravidel politického PR a bez doložených faktů a poznání. Vládnutí je i nadále netransparentní a neadresné. K automatizaci dochází jen velmi pomalu a zpravidla úspěšně jen tam, kde je k technologiím blíže z podstaty typu agendy dané instituce, ve které se tak děje._
+_Politiky jsou častěji vytvářeny na základě pravidel politického PR a bez doložených faktů a poznání. Vládnutí je i nadále netransparentní a neadresné. K automatizaci dochází jen velmi pomalu a zpravidla úspěšně jen tam, kde je k technologiím blíže z podstaty typu agendy dané instituce, ve které se tak děje._
 
 O co usilujeme:
 Výkon veřejné správy a samosprávy je řízen daty, včetně politik, které z popisu výkonu funkce navrhují a plní. „Úřady“ se zabývají analýzou a správou dat s důrazem na jejich otevírání a kvalitu. Stát vytváří takové byrokratické prostředí, které vyžaduje kvalitní data a kvalitní datovou analýzu a odpovídající infrastrukturu pro správu a výměnu dat mezi stakeholdery včetně businessu a občanské společnosti. Občan má státem garantovaný přístup k datům, která jsou důkazní páteří pro státem navrhované politiky. Stát a jeho úředníci dbají na kvalitu dat.
